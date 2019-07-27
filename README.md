@@ -1,4 +1,4 @@
-# docker-mysql
+# docker-redis
 
 ## pre-requirements
 
