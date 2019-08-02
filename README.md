@@ -8,6 +8,5 @@
 ## create_redis.sh
 
 ```bash
-REDIS_PASS=''
 docker stack deploy -c docker-compose.yml stack_redis
 ```
